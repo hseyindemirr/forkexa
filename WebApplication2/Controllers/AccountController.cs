@@ -20,6 +20,7 @@ namespace WebApplication2.Controllers
 
         public AccountController()
         {
+            //DENEME
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
